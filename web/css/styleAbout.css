@@ -1,0 +1,80 @@
+.about-us {
+    background: #ffffff;
+    padding: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.about-us h1, .about-us h2 {
+    color: #50b3a2;
+    margin-bottom: 20px;
+    font-size: 28px;
+    border-bottom: 2px solid #e8491d;
+    padding-bottom: 10px;
+}
+
+.about-us p {
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #555555;
+}
+
+.about-us ul {
+    margin-bottom: 20px;
+    padding-left: 20px;
+    list-style-type: disc;
+    color: #333;
+}
+
+.about-us ul li {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.about-us a {
+    color: #50b3a2;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.about-us a:hover {
+    text-decoration: underline;
+}
+
+.about-us h2 {
+    margin-top: 30px;
+    font-size: 24px;
+    padding-bottom: 5px;
+}
+
+.about-us ul li strong {
+    color: #e8491d;
+}
+
+.about-us h2:last-of-type {
+    margin-top: 40px;
+}
+
+.about-us .community {
+    background: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.about-us .community p {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.about-us .community a {
+    color: #e8491d;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.about-us .community a:hover {
+    text-decoration: underline;
+}
